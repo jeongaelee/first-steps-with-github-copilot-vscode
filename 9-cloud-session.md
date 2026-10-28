@@ -42,4 +42,4 @@ lastUpdated: 2026-10-05
 
 클라우드 세션에 기능을 위임하고 결과를 검토했습니다. [레슨 10: 복습 및 다음 단계][next-lesson]를 계속 진행합니다.
 
-[next-lesson]: ../10-review/
+[next-lesson]: 10-review.md

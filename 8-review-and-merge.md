@@ -38,4 +38,4 @@ VS Code의 GitHub 도구로 새 작업을 살펴보고 검토하고 병합합니
 VS Code를 벗어나지 않고 풀 리퀘스트를 검토하고 병합했습니다. [레슨 9: 다음 아이디어를 클라우드 세션에 맡기기][next-lesson]를 계속 진행합니다.
 
 [code-review]: https://docs.github.com/copilot/concepts/agents/code-review
-[next-lesson]: ../9-cloud-session/
+[next-lesson]: 9-cloud-session.md

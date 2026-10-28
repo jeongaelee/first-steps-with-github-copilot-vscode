@@ -35,4 +35,4 @@ Plan 모드는 파일을 변경하지 않고 워크스페이스를 조사하여 
 
 Copilot이 코드를 작성하기 전에 접근 방식에 합의했습니다. [레슨 6: Copilot에 GitHub 연동 도구 제공][next-lesson]을 계속 진행합니다.
 
-[next-lesson]: ../6-github-mcp/
+[next-lesson]: 6-github-mcp.md

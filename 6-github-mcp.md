@@ -26,4 +26,4 @@ Copilot에 이슈 생성이나 풀 리퀘스트(Pull request) 작업을 요청�
 이제 Copilot에 GitHub 연동 도구가 있습니다. [레슨 7: 이슈 계획 및 구현][next-lesson]을 계속 진행합니다.
 
 [mcp-servers]: https://code.visualstudio.com/docs/copilot/chat/mcp-servers
-[next-lesson]: ../7-issues-and-sessions/
+[next-lesson]: 7-issues-and-sessions.md

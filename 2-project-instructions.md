@@ -37,4 +37,4 @@ lastUpdated: 2026-10-05
 
 이제 워크스페이스에 실제 코드를 바탕으로 작성한 커스텀 지침이 있습니다. [레슨 3: 컨텍스트 확인 및 테스트][next-lesson]를 계속 진행합니다.
 
-[next-lesson]: ../3-inspect-and-test/
+[next-lesson]: 3-inspect-and-test.md

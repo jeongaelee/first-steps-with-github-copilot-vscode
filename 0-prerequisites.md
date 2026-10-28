@@ -54,6 +54,6 @@ VS Code에 Copilot Chat, GitHub 확장, 빈 `space-quiz` 폴더가 준비되었�
 [git]: https://git-scm.com/downloads
 [pr-extension]: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
 [active-models]: https://docs.github.com/copilot/reference/copilot-billing/models-and-pricing
-[review-lesson]: ../8-review-and-merge/
+[review-lesson]: 8-review-and-merge.md
 [code-review]: https://docs.github.com/copilot/concepts/agents/code-review
-[next-lesson]: ../1-build-and-polish/
+[next-lesson]: 1-build-and-polish.md

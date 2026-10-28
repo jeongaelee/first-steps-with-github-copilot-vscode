@@ -45,4 +45,4 @@ Create a colorful, accessible space exploration quiz with 10 questions in a sing
 
 편집기를 벗어나지 않고 퀴즈를 만들고 미리 보고 다듬었습니다. [레슨 2: 프로젝트 지침 작성][next-lesson]을 계속 진행합니다.
 
-[next-lesson]: ../2-project-instructions/
+[next-lesson]: 2-project-instructions.md

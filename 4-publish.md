@@ -30,4 +30,4 @@ lastUpdated: 2026-09-28
 
 이제 테스트를 마친 퀴즈가 GitHub에 게시되었습니다. [레슨 5: 편집 전에 계획하기][next-lesson]를 계속 진행합니다.
 
-[next-lesson]: ../5-plan-mode/
+[next-lesson]: 5-plan-mode.md

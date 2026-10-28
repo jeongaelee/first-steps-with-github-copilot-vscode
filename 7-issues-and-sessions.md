@@ -33,5 +33,5 @@ Review the space quiz and suggest three focused feature ideas. Use the GitHub to
 
 이슈를 만들고 별도의 세션에서 하나를 구현했습니다. [레슨 8: 검토 및 병합][next-lesson]을 계속 진행합니다.
 
-[lesson-3]: ../3-inspect-and-test/
-[next-lesson]: ../8-review-and-merge/
+[lesson-3]: 3-inspect-and-test.md
+[next-lesson]: 8-review-and-merge.md

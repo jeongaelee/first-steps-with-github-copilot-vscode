@@ -38,4 +38,4 @@ Run a browser-level smoke test for the quiz. Check keyboard navigation, score up
 
 Copilot이 볼 수 있는 내용을 확인하고 게시 전에 퀴즈를 테스트했습니다. [레슨 4: 프로젝트 게시][next-lesson]를 계속 진행합니다.
 
-[next-lesson]: ../4-publish/
+[next-lesson]: 4-publish.md
