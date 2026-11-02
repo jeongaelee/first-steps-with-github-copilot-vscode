@@ -16,7 +16,7 @@ lastUpdated: 2026-10-05
 
 ## `/init`으로 규칙 기록하기
 
-1. Copilot Chat에서 `/init create simple rules for the project`를 실행합니다.
+1. Copilot Chat에서 `/init 프로젝트를 위한 간단한 규칙을 생성합니다.`를 실행합니다.
 2. 생성된 `.github/copilot-instructions.md` 파일을 저장하기 전에 검토합니다.
 3. 단일 파일, 의존성 없음, 접근성, 브라우저 테스트 등 이 프로젝트에 맞는 안내만 남깁니다.
 
